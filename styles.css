@@ -1,0 +1,20 @@
+	    :root {
+            --primary-color: #FF4e00;
+            --secondary-color: #ff4e00;
+            --accent-color: #4cc9f0;
+            --success-color: #004e9b;
+            --danger-color: #e63946;
+            --warning-color: #ffb703;
+            --light-color: #f8f9fa;
+            --dark-color: #212529;
+            --purple-color: #6B00D7;
+            --danger-light-color: #ffc6c6;
+            --success-light-color: #d4edda;
+            --secondary-light-color: #d6d8d9;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f2f5;
+            color: var(--dark-color);
+        }
